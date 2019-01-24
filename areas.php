@@ -1147,7 +1147,6 @@ return ['AREA' => [
         'Tenjolaya',
     ],
 
-    /*
     'kabupaten-sukabumi' => [
         'Cicurug',
         'Cibadak',
@@ -1188,7 +1187,6 @@ return ['AREA' => [
         'Cikembar',
         'Bantar Gadung',
     ],
-    */
 
     'kabupaten-cianjur' => [
         'Agrabinta',
@@ -1699,7 +1697,6 @@ return ['AREA' => [
         'Tanah Sareal',
     ],
 
-    /*
     'kota-sukabumi' => [
         'Baros',
         'Cibeureum',
@@ -1709,7 +1706,6 @@ return ['AREA' => [
         'Lembursitu',
         'Warudoyong',
     ],
-    */
 
     'kota-bandung' => [
         'Andir',
